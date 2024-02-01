@@ -157,6 +157,9 @@ td.nutritions__value {
 
 
 @media (min-width: 375px) and (max-width: 1440px) {
+    body {
+        margin: 0px;
+    }
     .reciept__image {
         margin-bottom: 0px;
     }
